@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Scotland, to a gentleman at court, in relation to Scotch-affairs. With a copy of an act of Parliament for the security of their Majesties government in that kingdom. Licens'd, July 30. 1690. J.F.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87964</idno><idno type="EEBO-CITATION">99899717</idno>
+  <idno type="VID">134691</idno>
+  <idno type="EEBO-PROQUEST">2248519400</idno>
+  
+            <idno type="STC">Wing L1502C</idno>
+            <idno type="STC">ESTC R231033</idno>
+            <idno type="PROQUEST">99899717</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899717e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87964)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134691)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2430:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Scotland, to a gentleman at court, in relation to Scotch-affairs. With a copy of an act of Parliament for the security of their Majesties government in that kingdom. Licens'd, July 30. 1690. J.F.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by R. Roberts,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1689-1745 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:134691:1"/>
+            <head>A LETTER from SCOTLAND, TO A <hi>Gentleman at Court,</hi> In Relation to SCOTCH-AFFAIRS. With a Copy of an ACT of Parliament for the Security of Their Majesties Government in that Kingdom.</head>
+            <head>LICENS'D, <hi>July</hi> 30. 1690. J.F.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Parliament, after having Enacted many good Laws for the Property and Liberty of the People, and Security of His Maje<g ref="char:EOLhyphen"/>sties Government, was Adjourn'd to the Third of <hi>September:</hi> Amongst which Laws I shall only mention Two, which shew the Zeal of this Nation for the Present Government, and the Moderation of that Church Established by Law, towards those who Separate or Dissent from Them.</p>
+            <p>The first is, An Act for the Security of Their Majesties Government, taking off the Villanous Distinction of a King <hi>de Facto,</hi> and <hi>de Jure:</hi> which was Voted and Approved in a solemn and unaccustomary way, every Mem<g ref="char:EOLhyphen"/>ber standing up while he gave his Vote, and not one Contradictory Voice in the whole House. I thought it necessary to transmit the Act.</p>
+            <p>The second is, An Act rescinding all Penal Laws on such as separate from the Established Church, or keep Conventicles; and taking off the Civil Effect of Excommunication, that all Protestants may serve God in their own Way, without disturbance, and be capable of the greatest Employments, there being no Test, or any other Lett in their way; which, I do not doubt, in this Kingdom will tend to a lasting Unity amongst all who have any pretence to Religion, and totally extinguish that Spirit of Persecution which is too frequently a great part of the Zeal of most Church-men. This Act hath a Proviso, <hi>That those Ministers who were turned out for not Praying for King</hi> William <hi>and Queen</hi> Mary, <hi>should not pre<g ref="char:EOLhyphen"/>sume to Preach, nor exercise any part of the Ministerial Function, until they appear before His Majesty's Privy-Council, and take the Oath of Allegiance, and promise to Pray for Their Majesties, conform to the Act of the Meeting of Estates.</hi>
+            </p>
+            <p>Thus, by the wise Management of His Grace the Earl of <hi>Melvill,</hi> there is a happy Conclusion put to the second Session of Parliament, to the great satisfaction of those who are zealous for the Glory of their King, and the G<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d of their Countrey: Of which we have already a certain proof; for on the noise of the <hi>French</hi> Landing, and at the desire of His Grace the Earl of <hi>Melvill,</hi> there were Rendezvoused out of the Western Shires, in 24 hours warning 12000 well-appointed Men, who offered to serve His Majesty on
+<pb facs="tcp:134691:2"/> their own Charge; for which they had the Thanks of the Government, who have appointed 1500 of them to lie at <hi>Stirling,</hi> 1500 at <hi>Glasgow,</hi> and 1500 at <hi>Falkirk,</hi> dismissing the rest, who have promised to be ready upon a Call. We expect Major General <hi>Mackay</hi> will be on <hi>Saturday</hi> next at St. <hi>John<g ref="char:EOLhyphen"/>ston,</hi> having left 1100 Men in Garison at <hi>Innerlochy.</hi> This is all from,</p>
+            <closer>
+               <salute> Sir,</salute>
+               <signed>
+                  <hi>Your humble Servant,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>ATC for Securing of Their Majesties Government, Voted and Approved by the Parliament, <hi>Nemine Contradicente,</hi> July 22. 1690.</head>
+            <p>THe Estates of Parliament considering how just and ne<g ref="char:EOLhyphen"/>cessary it is for the Security of Their Majesties Go<g ref="char:EOLhyphen"/>vernment, and the Peace of this Kingdom, that all their Subjects be Men of Integrity, well and dutiful<g ref="char:EOLhyphen"/>ly affected; and that others, who are otherwise inclined, may be discovered; and that the late King <hi>James</hi> does still pretend a Ti<g ref="char:EOLhyphen"/>tle, and doth maintain a War against Their Majesties, and by many Contrivances endeavours to divert Their Majesties Leiges from their Allegiance; and for this end there is a di<g ref="char:EOLhyphen"/>stinction betwixt a King <hi>de Facto,</hi> and a King <hi>de Jure,</hi> cunningly of late spread abroad, thereby to weaken and invalidate the Allegiance sworn to Their Majesties. Therefore, The King and Queens Majesties, with the Advice and Consent of the Estates of Parliament, Enacts, Statutes and Ordains, That all Persons who in Law are obliged to swear and take the Oath of Allegiance, and all other Subjects of this Kingdom, whom the Council shall think fit to put the Oath of Allegiance to, (being hereby authorized to do the samen to every Subject of this Realm as they see cause) shall subscribe the Certificate and Assurance underwritten; Declaring, That such as shall refuse to subscribe the samen, shall be reputed disaffected to Their Ma<g ref="char:EOLhyphen"/>jesties Government, and be deprived of any Offices, Benefices, and Iurisdictions which they enjoy, and be obliged to give such Security for their Good Behaviour, and that they shall act no<g ref="char:EOLhyphen"/>thing against the Government, as Their Majesties High Com<g ref="char:EOLhyphen"/>missioner, or the Lords of his Majesties Privy-Council shall think fit; providing it extend no further than Bond, Caution, or Personal Imprisonment, securing of Horse and Arms, or Ga<g ref="char:EOLhyphen"/>rison of Houses.</p>
+            <div type="text">
+               <p>I <hi>A. B.</hi> do in the sincerity of my heart assert, acknowledg and declare, That Their Majesties King <hi>WILLIAM</hi> and Queen <hi>MARY,</hi> are the only Lawful, Undoubted Sovereigns, King and Queen of <hi>Scotland,</hi> as well <hi>de Jure</hi> as <hi>de Facto,</hi> and in the Exercise of the Government: And there<g ref="char:EOLhyphen"/>fore I do sincerely and faithfully promise and engage, That I will with Heart and Hand, Life and Goods, maintain and defend Their Majesties Title and Go<g ref="char:EOLhyphen"/>vernment, against the Late King <hi>James</hi>'s Adherents, and all other Enemies, who either by open or secret Attempts, shall disturb or disquiet Their Ma<g ref="char:EOLhyphen"/>jesties in the Exercise thereof.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>R. Roberts.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
